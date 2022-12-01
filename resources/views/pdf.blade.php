@@ -209,9 +209,6 @@
             </th>
         </tr>
     </table>
-    {{-- @foreach ($document as $teste)
-        <h2 class="prefeitura">{{$teste}}</h2>
-    @endforeach --}}
 
 </body>
 </html>
